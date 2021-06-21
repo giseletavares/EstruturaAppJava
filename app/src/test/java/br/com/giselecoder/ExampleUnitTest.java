@@ -1,4 +1,4 @@
-package br.com.fenix;
+package br.com.giselecoder;
 
 import org.junit.Test;
 
